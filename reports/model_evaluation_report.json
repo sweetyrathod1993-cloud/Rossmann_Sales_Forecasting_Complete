@@ -1,0 +1,7 @@
+{
+  "val_rmspe": 0.3318,
+  "val_rmse": 1946.93,
+  "val_mae": 1411.0,
+  "train_samples": 20658,
+  "val_samples": 19342
+}
