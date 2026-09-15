@@ -1,4 +1,5 @@
 import sys
+import matplotlib.pyplot as plt
 sys.modules.setdefault('numexpr', None)
 sys.modules.setdefault('bottleneck', None)
 """
